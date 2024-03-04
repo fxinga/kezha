@@ -1,1 +1,1 @@
-FROM nap0o/nezha:choreo
+FROM nap0o/nezha:latest
