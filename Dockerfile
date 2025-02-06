@@ -1,1 +1,1 @@
-FROM nap0o/nezha:latest
+FROM fscarmen/argo-nezha:latest
